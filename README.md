@@ -11,4 +11,4 @@ If I'm matched to somebody, the app would send the other person, who may be wait
 
 Design Tools: 
 
-For the website design, I will be using HTML and CSS and Javascript for the front end. The database will be MongoDB. 
+For the website design, I will be using HTML and CSS and Javascript for the front end. The database will be MongoDB and Mlabs. I'm hosting a local server on digitalocean
